@@ -1,0 +1,4 @@
+#Mon Mar 08 14:56:32 BRT 2021
+base.0=/home/dolph/Área de Trabalho/Bootcamp/react-native/mobile/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
